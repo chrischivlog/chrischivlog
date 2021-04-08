@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am chris Projectmanager and Operator.
+🔭 I’m currently working on another new project.
 
 
 
