@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I am chris Projectmanager and Operator.
+
+
+
 <!--
 **chrischivlog/chrischivlog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
